@@ -84311,7 +84311,7 @@ IdleStop:8.66067
 1
 0.8 0 0 0 1
 
-13940
+13941
 1
 17
 Behaviors\0_Master.hkx
@@ -98229,6 +98229,14 @@ IdleDLC02FallOnKneesLoop
 0
 0
 
+XingAirDash
+869
+1
+0
+0
+1
+ExitAD:1.5
+
 IdleDLC02BoatRide
 400
 1
@@ -98252,7 +98260,7 @@ SoundPlay.QSTDLC2BoatArrivalCreakC01:35.841
 SoundPlay.QSTDLC2BoatArrivalCreakB04:40.87
 IdleStop:41.6667
 
-5963
+5964
 104
 4
 1
@@ -104208,6 +104216,18 @@ IdleStop:41.6667
 0.8 4.53895 -10.3398 0
 1
 0.8 0 0 0 1
+
+869
+1.5
+6
+0 0 0 0
+0.3 0 1000 200
+0.5 0 1500 200
+0.833333 0 1550 200
+1.4 0 1650 200
+1.5 0 1650 200
+1
+1.5 0 0 0 1
 
 863
 0.333333
