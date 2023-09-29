@@ -15,7 +15,7 @@
 			<!-- referenceCount SERIALIZE_IGNORED -->
 			<hkparam name="deformableSkinNames" numelements="0"></hkparam>
 			<hkparam name="rigidSkinNames" numelements="0"></hkparam>
-			<hkparam name="animationNames" numelements="870">
+			<hkparam name="animationNames" numelements="871">
 				<hkcstring>Animations\1HM_1stP_Run.hkx</hkcstring>
 				<hkcstring>Animations\1HM_1stP_TurnLeft.hkx</hkcstring>
 				<hkcstring>Animations\1HM_1stP_TurnRight.hkx</hkcstring>
@@ -886,6 +886,7 @@
 				<hkcstring>Animations\WhirlwindSprint_Medium.hkx</hkcstring>
 				<hkcstring>Animations\WhirlwindSprint_Short.hkx</hkcstring>
 				<hkcstring>Animations\Xing\AirDash.hkx</hkcstring>
+				<hkcstring>Animations\Xing\AirDashAttack.hkx</hkcstring>
 			</hkparam>
 			<hkparam name="animationFilenames" numelements="0"></hkparam>
 			<hkparam name="characterPropertyNames" numelements="37">

@@ -8729,7 +8729,7 @@ FootBack:0.333333
 1
 0.4 0 0 0 1
 
-25055
+25056
 1
 19
 Behaviors\0_Master.hkx
@@ -33783,6 +33783,14 @@ XingAirDash
 1
 ExitAD:1.5
 
+XingAirAttack
+1657
+1
+0
+0
+1
+ExitAD:1.5
+
 DLC01TrailerWalkForward
 623
 1
@@ -33792,7 +33800,7 @@ DLC01TrailerWalkForward
 AnimObjectUnequip:6.5
 IdleStop:8.66067
 
-12705
+12706
 100
 1.2
 1
@@ -46499,6 +46507,15 @@ IdleStop:8.66067
 1
 1.5 0 0 0 1
 
+1657
+1.6
+3
+0 0 0 0
+0.8 0 470 200
+1.6 0 470 200
+1
+1.6 0 0 0 1
+
 1399
 0.8
 1
@@ -46506,7 +46523,7 @@ IdleStop:8.66067
 1
 0.8 0 0 0 1
 
-25046
+25047
 1
 19
 Behaviors\0_Master.hkx
@@ -71551,6 +71568,14 @@ XingAirDash
 1
 ExitAD:1.5
 
+XingAirAttack
+1657
+1
+0
+0
+1
+ExitAD:1.5
+
 DLC01TrailerWalkForward
 623
 1
@@ -71560,7 +71585,7 @@ DLC01TrailerWalkForward
 AnimObjectUnequip:6.5
 IdleStop:8.66067
 
-12742
+12743
 100
 1.2
 1
@@ -84304,6 +84329,15 @@ IdleStop:8.66067
 1
 1.5 0 0 0 1
 
+1657
+1.6
+3
+0 0 0 0
+0.8 0 470 200
+1.6 0 470 200
+1
+1.6 0 0 0 1
+
 1399
 0.8
 1
@@ -84311,7 +84345,7 @@ IdleStop:8.66067
 1
 0.8 0 0 0 1
 
-13941
+13942
 1
 17
 Behaviors\0_Master.hkx
@@ -98237,6 +98271,14 @@ XingAirDash
 1
 ExitAD:1.5
 
+XingAirAttack
+870
+1
+0
+0
+1
+ExitAD:1.5
+
 IdleDLC02BoatRide
 400
 1
@@ -98260,7 +98302,7 @@ SoundPlay.QSTDLC2BoatArrivalCreakC01:35.841
 SoundPlay.QSTDLC2BoatArrivalCreakB04:40.87
 IdleStop:41.6667
 
-5964
+5965
 104
 4
 1
@@ -104228,6 +104270,18 @@ IdleStop:41.6667
 1.5 0 1650 200
 1
 1.5 0 0 0 1
+
+870
+1.6
+6
+0 0 0 0
+0.3 0 200 200
+0.5 0 400 200
+0.833333 0 470 200
+1.4 0 470 200
+1.6 0 470 200
+1
+1.6 0 0 0 1
 
 863
 0.333333
