@@ -1,7 +1,8 @@
 Use Havok Content Tools , Notepad++ ,Skyrim Behavior Tool
-Add a new behaviora state machine under the Default_State node
-And add event transition. When a specific event occurs, can visit the node and play
+Add a new  state node machine under the State machine RootBehaviorGraph
+By using Global Wilcard Transition method
+When a specific event occurs, can visit the node 
 
-Nexus Link: https://www.nexusmods.com/skyrimspecialedition/mods/106106
+Nexus Link: https://www.nexusmods.com/skyrimspecialedition/mods/98947
 
-Showcase: https://youtu.be/U5iV5g5qHGM
+Showcase: https://youtu.be/NEKUy5DqGRg
